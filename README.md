@@ -2,9 +2,10 @@
 
 <!--[![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel)-->
 [![Linkedin Badge](https://img.shields.io/badge/-Prakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prakash20kumar/)](https://www.linkedin.com/in/prakash20kumar/)
-[![Twitter Badge](https://img.shields.io/badge/-Prakash-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/prakash99kumar/)](https://twitter.com/prakash99kumar/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Prakash-green)](https://prakash20kumar.github.io/cv/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Prakash-yellow)](https://stackoverflow.com/users/13126709/prakash-kumar-)
+[![Twitter Badge](https://img.shields.io/badge/-Prakash-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/prakash99kumar/)](https://twitter.com/prakash99kumar/)
+[![Instagram Badge](https://img.shields.io/badge/-Prakash-pink?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/prakash99kumar1999/)](https://www.instagram.com/prakash99kumar1999/)
 
 I'm
 Full Stack Solution Architect
